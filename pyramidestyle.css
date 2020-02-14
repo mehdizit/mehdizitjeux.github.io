@@ -1,0 +1,32 @@
+h2
+{
+	color: blue;
+	font-style: oblique;
+	font-size: 40px;
+	text-align: center;
+	border: 10px solid;
+	width: 58%;
+	margin: 17%;
+	
+
+}
+h1
+{
+	font-size: 70px;
+	text-align: center;
+	font-family: Arial;
+	color: red;
+	text-shadow: 6px 6px 20px blue;
+	padding: 5%;
+
+}
+body
+{
+	background: yellow;
+}
+.pyramide
+{
+	text-align: center;
+	font-size: 60px;
+	color: green;
+}
